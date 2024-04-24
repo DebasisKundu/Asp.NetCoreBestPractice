@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FindMyPG/bin/Debug/net6.0
+/FindMyPG/obj
+/FindMyPG/FindMyPG - Backup.csproj
+/FindMyPG/FindMyPG.csproj.user
+/FindMyPG.Core/bin/Debug/net6.0
+/FindMyPG.Core/obj
+/FindMyPG.Data/bin/Debug/net6.0
+/FindMyPG.Data/obj
+/FindMyPG.Service/bin/Debug/net6.0
+/FindMyPG.Service/obj
