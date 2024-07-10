@@ -7,7 +7,7 @@ This repository demonstrates best practices for developing RESTful APIs using AS
 - **RESTful API**: Implementation of RESTful principles for API development.
 - **Entity Framework Core**: Usage of Entity Framework Core for data access.
 - **Repository Pattern**: Use of the Repository Pattern to abstract data access logic.
-- **Dependency Injection**: Leveraging ASP.NET Core's built-in dependency injection.
+- **Dependency Injection**: Use of Autofac for dependency injection.
 - **Error Handling**: Centralized error handling to ensure consistent error responses.
 - **AutoMapper**: Use of AutoMapper for mapping entities.
 - **Validation**: Model validation using data annotations and custom validation attributes.
