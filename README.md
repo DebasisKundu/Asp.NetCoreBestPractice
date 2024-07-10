@@ -9,9 +9,8 @@ This repository demonstrates best practices for developing RESTful APIs using AS
 - **Repository Pattern**: Use of the Repository Pattern to abstract data access logic.
 - **Dependency Injection**: Leveraging ASP.NET Core's built-in dependency injection.
 - **Error Handling**: Centralized error handling to ensure consistent error responses.
-- **DTOs and AutoMapper**: Use of Data Transfer Objects (DTOs) and AutoMapper for mapping entities.
+- **AutoMapper**: Use of AutoMapper for mapping entities.
 - **Validation**: Model validation using data annotations and custom validation attributes.
-- **Logging**: Integration with logging frameworks for robust logging.
 
 ## Technologies
 - **ASP.NET Core**: The main framework used for building the API.
